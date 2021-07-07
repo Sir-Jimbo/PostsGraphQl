@@ -1,0 +1,13 @@
+.container {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   height: 800px;
+   margin: 0 auto;
+   overflow: auto;
+}
+
+.loading {
+   width: 200px;
+   margin: 20px auto;
+   text-align: center;
+}
